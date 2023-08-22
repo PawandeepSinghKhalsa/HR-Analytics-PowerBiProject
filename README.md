@@ -1,1 +1,1 @@
-# powerbi-projects about HR department data
+# powerbi project to analyse HR data
